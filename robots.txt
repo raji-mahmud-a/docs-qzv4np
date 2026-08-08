@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ogre7u.chatelier.cc/sitemap.xml
